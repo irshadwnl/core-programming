@@ -10,7 +10,6 @@ public class Calculator {
         double first=sc.nextDouble();
         double second=sc.nextDouble();
         String op=sc.next();
-
         switch (op) {
             case "+":
                 System.out.printf("Sum is %.2f ",(first+second));
