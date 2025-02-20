@@ -1,0 +1,3 @@
+or(String v[]:vote){
+
+        // }
