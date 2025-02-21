@@ -20,6 +20,6 @@ public  class NonRepeatingCharacter {
                 return s.charAt(i);
             }
         }
-        return '\0';
+        return '0';
     }
 }
